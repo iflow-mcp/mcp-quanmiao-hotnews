@@ -1,9 +1,9 @@
 {
-  "name": "@iic-llm-solution/mcp-quanmiao-hotnews-node",
+  "name": "@iflow-mcp/mcp-quanmiao-hotnews",
   "version": "0.0.4",
   "main": "index.js",
   "bin": {
-    "mcp-quanmiao-hotnews-node": "./build/index.js"
+    "mcp-quanmiao-hotnews": "./build/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
