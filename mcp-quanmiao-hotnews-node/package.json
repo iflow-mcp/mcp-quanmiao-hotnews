@@ -1,6 +1,6 @@
 {
   "name": "@iflow-mcp/mcp-quanmiao-hotnews",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": "index.js",
   "bin": {
     "mcp-quanmiao-hotnews": "./build/index.js"
